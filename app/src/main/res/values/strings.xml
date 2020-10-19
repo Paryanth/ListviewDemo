@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListViewDemo</string>
+    <string-array name="country">
+        <item>India</item>
+        <item>China</item>
+        <item>Korea</item>
+    </string-array>
+</resources>
